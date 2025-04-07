@@ -11,7 +11,7 @@ npm install @vonxai/llm
 ## Usage
 
 ```javascript
-const answer = require('@vonxai/llm');
+const { answer } = require('@vonxai/llm');
 
 console.log(answer()); // 42
 ```

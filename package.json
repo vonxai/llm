@@ -1,6 +1,6 @@
 {
     "name": "@vonxai/llm",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Answer to the Ultimate Question of Life, the Universe, and Everything.",
     "main": "index.js",
     "types": "index.d.ts",
