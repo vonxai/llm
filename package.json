@@ -1,10 +1,11 @@
 {
     "name": "@vonxai/llm",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Answer to the Ultimate Question of Life, the Universe, and Everything.",
     "main": "index.js",
+    "types": "index.d.ts",
     "keywords": [],
     "author": "vonxai inc",
-    "license": "MIT"
-  }
-  
+    "license": "MIT",
+    "homepage": "https://github.com/vonxai/llm"
+}
